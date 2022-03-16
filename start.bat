@@ -1,0 +1,3 @@
+echo Starting...
+call cd src
+call npm install & npm start

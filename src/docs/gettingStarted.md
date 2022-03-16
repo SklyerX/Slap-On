@@ -1,0 +1,2 @@
+# How to get started
+- to get started click on the start.bat and clicking the option 1, then fill in the required information and cd into the bots directory and press on start.bat in the file created for you're bot.

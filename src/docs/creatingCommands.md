@@ -1,0 +1,2 @@
+# How to create commands
+- click on the start.bat in the main directory (not the bot) and click the second option. give you're command a name and a description. The file will get created in the commands folder so you can edit it however you like.

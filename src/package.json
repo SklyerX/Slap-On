@@ -1,0 +1,38 @@
+{
+  "name": "slap-on",
+  "version": "1.0.0",
+  "description": "This is a tool will put a project together and create a discord bot in discord.js v13 with the best slash command handler and event handler",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SklyerX/slap-on.git"
+  },
+  "keywords": [
+    "slapon",
+    "create"
+  ],
+  "author": "Sky some#6621",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SklyerX/slap-on/issues"
+  },
+  "homepage": "https://github.com/SklyerX/slap-on#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "@discordjs/rest": "^0.3.0",
+    "chalk": "^4.1.2",
+    "chalk-animation": "^1.6.0",
+    "console-title": "^1.1.0",
+    "discord-api-types": "^0.29.0",
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security",
+    "input": "^1.0.1",
+    "mongoose": "^6.2.6",
+    "nodemon": "^2.0.15"
+  }
+}
