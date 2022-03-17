@@ -1,5 +1,4 @@
 # Slap On
-<img src="https://media.discordapp.net/attachments/896896265768538215/953848019290316830/Capture.PNG?width=877&height=457" />
 <p align="center">Slap together a Discord Bot project in seconds!</p>
 
 ## What is Slap On?
@@ -25,6 +24,9 @@ Download This repository and click press on the start.bat
 - Press on the start.bat and click the first option to create you're bot. Follow the steps and enter your Bot Token and Prefix.
 - Once done, `cd` into your project by typing `cd..` `cd <name of project>`
 - To run the bot, type `npm run dev` or `npm start`. This will run the bot and if you are using the dev script it auto reloads on save
+
+# Example
+<img src="https://media.discordapp.net/attachments/896896265768538215/953848019290316830/Capture.PNG?width=877&height=457" />
 
 ## Generating Commands
 
