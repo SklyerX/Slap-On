@@ -1,6 +1,3 @@
-# Slap On
-<p align="center">Slap together a Discord Bot project in seconds!</p>
-
 ## What is Slap On?
 
 Slappey is a CLI (Command Line Interface) tool that lets you generate a Discord.JS project in a matter of seconds.
